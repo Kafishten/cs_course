@@ -36,6 +36,8 @@ namespace ConsoleApp2
             int bb;
             bb = int.Parse(cc);
 
+            HELLO WORLD
+
             // типпеременной.TryParse(переменная которую конвертировать, out переменн в которую парсить)
             // bool result = типпеременной.TryParse(...) возвращает булевое значения (для исключений)
 
